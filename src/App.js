@@ -23,7 +23,7 @@ class App extends Component {
 
 function getFooter() {
   return (
-    <div>This is footer component. this is an pure js functions</div>
+    <div>This is footer component. this is a pure js functions</div>
   )
 }
 
